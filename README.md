@@ -35,6 +35,7 @@ To explore and utilize the IITB-CPU project, follow these steps:
 1. Clone the repository to your local machine.
    ```bash
    git clone [repository_url]
+   
 2. Explore the VHDL files for the IITB-CPU design in the 'VHDL' directory.
 
 Navigate to the 'VHDL' directory in your local repository to view and understand the VHDL implementation.
