@@ -38,9 +38,11 @@ To explore and utilize the IITB-CPU project, follow these steps:
 2. Explore the VHDL files for the IITB-CPU design in the 'VHDL' directory.
 
 Navigate to the 'VHDL' directory in your local repository to view and understand the VHDL implementation.
-Review the testbench files in the 'Testbench' directory for simulation purposes.
 
-3. Navigate to the 'Testbench' directory to access and analyze the testbench files used for simulating and validating the functionality of the CPU design.
-Refer to the project report ('Report.pdf') for comprehensive insights into the design and simulation results.
+3.Review the testbench files in the 'Testbench' directory for simulation purposes.
 
-4. Open the 'Report.pdf' file to gain detailed insights into the design principles, architecture, and simulation results of the IITB-CPU project.
+Navigate to the 'Testbench' directory to access and analyze the testbench files used for simulating and validating the functionality of the CPU design.
+
+4.Refer to the project report ('Report.pdf') for comprehensive insights into the design and simulation results.
+
+Open the 'Report.pdf' file to gain detailed insights into the design principles, architecture, and simulation results of the IITB-CPU project.
